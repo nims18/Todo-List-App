@@ -5,5 +5,6 @@
 </head>
 <body>
 	<h1>Test HEADER</h1>
+	<h1>Another test header</h1>
 </body>
 </html>
